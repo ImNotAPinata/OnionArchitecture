@@ -1,0 +1,8 @@
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Data\bin\Debug\netcoreapp1.1\OA.Data.deps.json
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Data\bin\Debug\netcoreapp1.1\OA.Data.dll
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Data\bin\Debug\netcoreapp1.1\OA.Data.pdb
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.csproj.CoreCompileInputs.cache
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.AssemblyInfoInputs.cache
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.AssemblyInfo.cs
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.dll
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.pdb

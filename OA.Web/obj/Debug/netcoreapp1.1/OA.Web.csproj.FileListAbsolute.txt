@@ -1,0 +1,17 @@
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\bin\Debug\netcoreapp1.1\OA.Web.deps.json
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\bin\Debug\netcoreapp1.1\OA.Web.runtimeconfig.json
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\bin\Debug\netcoreapp1.1\OA.Web.runtimeconfig.dev.json
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\bin\Debug\netcoreapp1.1\OA.Web.dll
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\bin\Debug\netcoreapp1.1\OA.Web.pdb
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\bin\Debug\netcoreapp1.1\OA.Data.dll
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\bin\Debug\netcoreapp1.1\OA.Repo.dll
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\bin\Debug\netcoreapp1.1\OA.Service.dll
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\bin\Debug\netcoreapp1.1\OA.Data.pdb
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\bin\Debug\netcoreapp1.1\OA.Repo.pdb
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\bin\Debug\netcoreapp1.1\OA.Service.pdb
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.csprojResolveAssemblyReference.cache
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.csproj.CoreCompileInputs.cache
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.AssemblyInfoInputs.cache
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.AssemblyInfo.cs
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.dll
+C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\OnionArchitecture\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.pdb
